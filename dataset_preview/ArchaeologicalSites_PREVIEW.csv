@@ -1,0 +1,51 @@
+Id,Id_Phase,Toponyms,Ancient Toponyms,Type,Period,Historical Period,StartDate,EndDate,Longitude,Latitude,LocQual,SizeHA,SizeQual,Source,Source_Id
+186,186_0,Khirbet Seraisat,,settlement,MBA,,-2000,-1600,38.03695898,36.715735979,A,1.767,A,"Wilkinson, Lawrence and Ricci, 2016.",LCP_1_0_0
+186,186_1,Khirbet Seraisat,,settlement,LBA ,,-1600,-1200,38.03695898,36.715735979,A,1.767,A,"Wilkinson, Lawrence and Ricci, 2016.",LCP_1_0_0
+186,186_2*,Khirbet Seraisat,,settlement,IA ,,-1200,-330,38.03695898,36.715735979,A,1.767,A,"Wilkinson, Lawrence and Ricci, 2016.",LCP_1_0_0
+187,187_0,Tashatan (Marm al-Hajar),,settlement,MBA,,-2000,-1600,37.9801423125243,36.7852622732834,B,0.8796,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_5_0_0
+187,187_1,Tashatan (Marm al-Hajar),,settlement,IA ,,-1200,-330,37.9801423125243,36.7852622732834,B,0.8796,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_5_0_0
+188,188_0,Jerablus Tahtani Village,,settlement,IA ,,-1200,-330,38.0257250617437,36.796452545441,B,2.474,A,"Wilkinson, Lawrence and Ricci, 2016.",LCP_6_0_0
+189,189_0,’Ain al-Beida,,settlement,MBA,,-2000,-1600,37.97080661,36.72607204,A,0.7854,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_10_0_0
+189,189_1*,’Ain al-Beida,,settlement,LBA ,,-1600,-1200,37.97080661,36.72607204,A,0.7854,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_10_0_0
+189,189_2,’Ain al-Beida,,settlement,IA ,,-1200,-330,37.97080661,36.72607204,A,0.7854,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_10_0_0
+190,190_0,Tell Ma’zala ,,settlement,MBA,,-2000,-1600,37.94498977,36.73407575,A,0.5027,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_11_0_0
+191,191_0,Tell Meshirfe,,settlement,Late IA ,,-700,-330,38.0555725745248,36.6978324348851,B,0.7854,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_15_0_0
+192,192_0,Tell Amarna,,settlement,MBA I,,-2000,-1800,38.01329578,36.74562394,A,2.042,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_21_0_0
+192,192_1,Tell Amarna,,settlement,MBA II,,-1800,-1600,38.01329578,36.74562394,A,2.042,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_21_0_0
+192,192_2,Tell Amarna,,settlement,IA ,,-1200,-330,38.01329578,36.74562394,A,2.042,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_21_0_0
+193,193_0,Tell Jerablus Tahtani,,settlement,IA ,,-1200,-330,38.02118863006,36.79007931003,A,3.11,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_22_0_0
+194,194_0*,Tell Jamel,,settlement,MBA,,-2000,-1600,38.007023,36.766432,B,1.296,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_23_0_0
+194,194_1*,Tell Jamel,,settlement,IA ,,-1200,-330,38.007023,36.766432,B,1.296,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_23_0_0
+195,195_0*,Tell Dabis,,settlement,MBA – LBA,,-2000,-1200,37.949967,36.694087,B,0.38485,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_24_0_0
+195,195_1*,Tell Dabis,,settlement,IA ,,-1200,-330,37.949967,36.694087,B,0.38485,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_24_0_0
+196,196_0,Tell Dadate,,settlement,MBA,,-2000,-1600,37.9312388,36.6358647,A,1.131,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_25_0_0
+196,196_1*,Tell Dadate,,settlement,LBA ,,-1600,-1200,37.9312388,36.6358647,A,1.131,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_25_0_0
+197,197_0,Dadate-North ,,settlement,IA,,-1200,-330,37.9366094,36.6424703,B,1.3195,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_37_0_0
+198,198_0,Tell Sha’ir (Sajur),,settlement,IA,,-1200,-330,37.996698,36.633111,B,0.6362,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_38_0_0
+199,199_0,Carchemish,Gargamiš ,settlement,EBA IV – MBA I,,-2300,-1900,38.0173804,36.8313557,A,100,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_46_0_0
+199,199_1,Carchemish,Gargamiš ,settlement,LBA ,,-1900,-1600,38.0173804,36.8313557,A,100,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_46_0_0
+199,199_2,Carchemish,Gargamiš ,settlement,Early IA,,-1200,-700,38.0173804,36.8313557,A,100,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_46_0_0
+199,199_3,Carchemish,Gargamiš ,settlement,Late IA,,-700,-330,38.0173804,36.8313557,A,100,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_46_0_0
+200,200_0,Tell al-Akhbar/ Boz Höyük,,settlement,MBA ,,-2000,-1600,37.7791466,36.7314348,A,1.0996,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_47_0_0
+200,200_1,Tell al-Akhbar/ Boz Höyük,,settlement,LBA ,,-1600,-1200,37.7791466,36.7314348,A,1.0996,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_47_0_0
+200,200_2,Tell al-Akhbar/ Boz Höyük,,settlement,IA,,-1200,-330,37.7791466,36.7314348,A,1.0996,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_47_0_0
+201,201_0,Tell al-Hajalliya,,settlement,IA ,,-1200,-330,37.9574536,36.8021659,A,0.3534,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_54_0_0
+202,202_0,Tell al-Hilwaniya,,settlement,MBA,,-2000,-1600,37.91094409,36.79223106,A,2.5525,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_55_0_0
+202,202_1,Tell al-Hilwaniya,,settlement,IA,,-1200,-330,37.91094409,36.79223106,A,2.5525,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_55_0_0
+203,203_0,Tell Majra Saghir W (al-Tukhar),,settlement,MBA,,-2000,-1600,38.0089393,36.6305845,B,0.4418,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_56_0_0
+203,203_1,Tell Majra Saghir W (al-Tukhar),,settlement,LBA ,,-1600,-1200,38.0089393,36.6305845,B,0.4418,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_56_0_0
+203,203_2,Tell Majra Saghir W (al-Tukhar),,settlement,IA,,-1200,-330,38.0089393,36.6305845,B,0.4418,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_56_0_0
+204,204_0,Tell Yousuf Bek ,,settlement,LBA ,,-1600,-1200,37.92243452,36.73865649,A,0.9503,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_59_0_0
+204,204_1,Tell Yousuf Bek ,,settlement,IA,,-1200,-330,37.92243452,36.73865649,A,0.9503,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_59_0_0
+205,205_0,Tell Koundouriye (al-Ghoundariya),,settlement,MBA,,-2000,-1600,37.89184027,36.74631509,A,2.529,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_60_0_0
+205,205_1,Tell Koundouriye (al-Ghoundariya),,settlement,IA,,-1200,-330,37.89184027,36.74631509,A,2.529,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_60_0_0
+206,206_0,Tell Nahr Bash W,,settlement,IA,,-1200,-330,37.8564403720813,36.7407698840974,B,1.5708,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_65_0_0
+207,207_0*,Tell Nahr Bash,,settlement,MBA,,-2000,-1600,37.8684317634272,36.7387661731351,B,0.324,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_66_0_0
+207,207_1,Tell Nahr Bash ,,settlement,LBA ,,-1600,-1200,37.8684317634272,36.7387661731351,B,0.324,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_66_0_0
+207,207_2*,Tell Nahr Bash,,settlement,IA,,-1200,-330,37.8684317634272,36.7387661731351,B,0.324,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_66_0_0
+208,208_0,Tell Arab Hassan,,settlement,MBA,,-2000,-1600,37.8540964,36.6527258,A,4.783,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_68_0_0
+208,208_1,Tell Arab Hassan,,settlement,LBA ,,-1600,-1200,37.8540964,36.6527258,A,4.783,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_68_0_0
+208,208_2,Tell Arab Hassan,,settlement,IA,,-1200,-330,37.8540964,36.6527258,A,4.783,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_68_0_0
+209,209_0,Tell Hilwanji Tahtani,,settlement,MBA,,-2000,-1600,37.8982363,36.6460746,A,0.864,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_69_0_0
+209,209_1,Tell Hilwanji Tahtani,,settlement,IA,,-1200,-330,37.8982363,36.6460746,A,0.864,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_69_0_0
+210,210_0,Tell al-Haimar,,settlement,IA,,-1200,-330,37.9310516,36.7652095,B,0.4084,B,"Wilkinson, Lawrence and Ricci, 2016.",LCP_78_0_0

@@ -1,0 +1,64 @@
+Data description of the files "ArchaeologicalSites.csv" and "SyrianIraqiJazira.gpkg".
+
+
+**The "ArchaeologicalSites.csv" file contains the collated data of the archaeological sites - namely ancient settlements - across the Syrian-Iraqi Jazira from 2300 BCE to 330 BCE. Here, follows a brief description of the table entries for the .csv and key codes:
+- Id (integer): unique identifier of the archaeological site.
+- Id_Phase (integer): unique indentifier of a particular site-phase. 
+- Toponyms (string): modern name of the archaeological site.
+- Ancient Toponyms (string): ancient name of the archaeological site (if available).
+- Type (string): typology of archaeological site (settlement - fort - temporary camp).
+- Period (string): the archaeological period to which each site-phase belongs.
+- Historical Period (string): the historical period to which each site-phase belongs.
+- StartDate (integer): approximate start date for the occupation of a site-phase, expressed in absolute calendric years. 
+- EndDate (integer): approximate end date for the occupation a site-phase, expressed in absolute calendric years.
+- Longitude (decimal): Geographic/Unprojected WGS84 eastings.
+- Latitude (decimal): Geographic/Unprojected WGS84 northings.
+- LocQual (string): degree of accuracy of the point representing the site.
+- SizeHA (integer): estimated site size for each site-phase.
+- SizeQual (string): degree of the accuracy of the estimated site size for each site-phase.
+- Source (string): bibliographic reference(s) from which the archaeological data have been collected. 
+- Source_id (string): unique identifier of the archaeological site in the original source(s).
+- Comments (string): supplementary information.
+
+
+The presence of an asterisk (*) in some of the entries suggests that, according to the sources used, the given information are plausible and/or incomplete.
+
+
+*Location Quality Key
+- A = exact coordinates of the site's centroid.
+- B = the site is within a 1km radius' buffer of the coordinates collected.
+- C = the site is within a 3km radius' buffer of the coordinates collected.
+- D = the site is within a 5km radius' buffer of the coordinates collected.
+- E = no available data. 
+
+
+*Size Quality Key
+- A = rough site extent, reported for a specific site-phase.
+- B = published extent for all site-phases; differentiation by individual site-phase is not possible.
+- C = very rough estimate given by the author of the present dataset for the site's likely total extent, with no distinction between each site-phase.
+
+
+*Abbreviations used in the "Period" field:
+- EBA IV = Early Bronze Age IV
+- MBA I = Middle Bronze Age I
+- MBA II = Middle Bronze Age II
+- LBA I = Late Bronze Age I
+- LBA II = Late Bronze Age II
+- IA I = Iron Age I
+- IA II = Iron Age II
+- IA III = Iron Age III
+
+
+**The "SyrianIraqiJazira.gpkg" file contains three vector (.shp) layers:
+- StudyArea: polygon layer of the study area.
+- ArchaeologicalSurveys: polygon layer of the surveys carried out in the study area and used in the dataset.
+- ArchaeologicalSites: point layer of the surveyed and/or excavated archaeological sites.
+
+
+*The attribute table of the point layer "ArchaeologicalSites.shp" contains the same entries as those in "ArchaeologicalSites.csv" (see above).
+
+*Description of each field in "ArchaeologicalSurveys.shp.":
+- SurveyID(string): unique identifier (acronym) of the survey.
+- SurveyName(string): name of the archaeological survey
+- Area(km2)(decimal): tot. area (km2) of each survey.
+
