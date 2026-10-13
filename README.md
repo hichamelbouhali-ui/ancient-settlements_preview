@@ -49,13 +49,13 @@ Figure 1. Map showing archaeological surveys and sites used for the dataset. © 
 
 **Licenses/restrictions placed on the data**: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-**Links to publications that cite or use the data**: The dataset has been submitted to the Journal of Open Archaeology Data for publication.
+**Links to publications that cite or use the data**: 
 
-**Links to other publicly accessible locations of the data**: The dataset is openly available in the Zenodo depository at the following link: []
+**Links to other publicly accessible locations of the data**: The dataset is openly available in the Zenodo depository at the following link: 
 
 **Data origin**: Secondary and Processed data from originally published materials (see "References.txt" file).
 
-**Recommended citation for this dataset**: Appropriate citation will be provided once the paper is published.
+**Recommended citation for this dataset**: Appropriate citation will be provided once the data paper is published.
 
 
 # DATA & FILE OVERVIEW
